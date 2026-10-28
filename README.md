@@ -8,8 +8,7 @@
 - 📚 Cursos completados: Introducción a Entornos Cloud, fundamentos AWS, soporte informático
 - 🌱 Actualmente aprendo CI/CD, CloudFormation, IAM y buenas prácticas de seguridad
 - 🤝 Busco incorporarme como Trainee / Soporte IT para aportar mi actitud resolutiva y seguir creciendo en infraestructura tecnológica
-- 📎 CV / LinkedIn: [Pega aquí tu enlace]
-- ⚠️ Nota: Los laboratorios son para fines educativos; siempre apago los recursos AWS para evitar costos
+- 📎 CV / LinkedIn: [www.linkedin.com/in/pablo-chiappone-9999131a2]
 
 ## 📂 Repositorios destacados
 - 🟢 Curso.Prep.Henry: Fundamentos de programación JavaScript
